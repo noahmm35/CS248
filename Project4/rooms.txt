@@ -1,0 +1,21 @@
+10
+1 2 6 10
+A wooden sign reads "Beware of King Boo!"
+2 1 3 7
+A wooden panel creaks as you step on it.
+3 2 4 8
+You notice a few banana peels scattered across the floor.
+4 3 5 9
+There is an old rotary phone in the middle of the room.
+5 4 6 10
+A mouse scurries across past your feet.
+6 1 5 7
+A bar of gold is casually sitting on the table next to you.
+7 2 6 8
+A cold burst of air hits you.
+8 3 7 9
+You walk into a bunch of cobwebs, luckily no spiders.
+9 4 8 10
+You see yourself in a mirror, you look scared...
+10 1 5 9
+You get a strong sense of deja vu.
