@@ -7,7 +7,7 @@
    
    Simple Guessing Game
 
-2. [Exam Statistics Program (ESP)](https://github.com/noahmm35/CS248/tree/main/Project2))
+2. [Exam Statistics Program (ESP)](https://github.com/noahmm35/CS248/tree/main/Project2)
 
    File Reading/ Functions
    
@@ -37,7 +37,7 @@
    
    Utilize time taken to sort random array of data with multiple sorting algorithms
 
-7. [Camp Posanivee](https://github.com/noahmm35/CS248/tree/main/Project7)
+7. [Camp Posanivee](https://github.com/noahmm35/CS248/tree/main/Project7) **Work in Progress**
 
    Binary Search Trees
 
