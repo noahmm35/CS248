@@ -1,7 +1,7 @@
 ## CS248: Object Oriented Programming (Java)
 
 [project1] (https://github.com/noahmm35/CS248/tree/main/Project1)
-[Guessing Game](https://github.com/RachelBurke/CS248/tree/master/Projects/Project1) (Introduction to Java)
+[Project1](https://github.com/noahmm35/CS248/tree/main/Project1) (Introduction to Java)
 
 
 
