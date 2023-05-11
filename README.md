@@ -1,6 +1,6 @@
 ## CS248: Object Oriented Programming (Java)
 
-[project1] (https://github.com/noahmm35/CS248/tree/main/Project1)
+[project1] (https://github.com/noahmm35/CS248/tree/main/Project1/)
 
 
 
