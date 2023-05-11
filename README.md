@@ -3,7 +3,7 @@
 ### Projects Above:
 1. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
  
-Simple guessing game to serve as intro to Java
+   Simple guessing game to serve as intro to Java
 
 3. [Exam Statistics Program (ESP)](https://github.com/noahmm35/CS248/tree/main/Project2))
 4. [Dating Game](https://github.com/noahmm35/CS248/tree/main/Project3)
