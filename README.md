@@ -37,7 +37,7 @@
    
    Utilize time taken to sort random array of data with multiple sorting algorithms
 
-7. [Camp Posanivee](https://github.com/noahmm35/CS248/tree/main/Project7) **Work in Progress**
+7. **Work in Progress** - [Camp Posanivee](https://github.com/noahmm35/CS248/tree/main/Project7)
 
    Binary Search Trees
 
