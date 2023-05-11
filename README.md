@@ -1,7 +1,13 @@
 ## CS248: Object Oriented Programming (Java)
 
-[project1] (https://github.com/noahmm35/CS248/tree/main/Project1)
-[Project1](https://github.com/noahmm35/CS248/tree/main/Project1) (Introduction to Java)
+### Projects Above:
+1. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
+2. [Exam Statistics Program (ESP)](https://github.com/noahmm35/CS248/tree/main/Project1](https://github.com/noahmm35/CS248/tree/main/Project2))
+3. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
+4. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
+5. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
+6. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
+7. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
 
 
 
