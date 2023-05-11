@@ -2,12 +2,15 @@
 
 ### Projects Above:
 1. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
-2. [Exam Statistics Program (ESP)](https://github.com/noahmm35/CS248/tree/main/Project2))
-3. [Dating Game](https://github.com/noahmm35/CS248/tree/main/Project3)
-4. [Hunt the Wumpus](https://github.com/noahmm35/CS248/tree/main/Project4)
-5. [La Food](https://github.com/noahmm35/CS248/tree/main/Project5)
-6. [Sorting Out Sorts (SoS)](https://github.com/noahmm35/CS248/tree/main/Project6)
-7. [Camp Posanivee](https://github.com/noahmm35/CS248/tree/main/Project7)
+ 
+Simple guessing game to serve as intro to Java
+
+3. [Exam Statistics Program (ESP)](https://github.com/noahmm35/CS248/tree/main/Project2))
+4. [Dating Game](https://github.com/noahmm35/CS248/tree/main/Project3)
+5. [Hunt the Wumpus](https://github.com/noahmm35/CS248/tree/main/Project4)
+6. [La Food](https://github.com/noahmm35/CS248/tree/main/Project5)
+7. [Sorting Out Sorts (SoS)](https://github.com/noahmm35/CS248/tree/main/Project6)
+8. [Camp Posanivee](https://github.com/noahmm35/CS248/tree/main/Project7)
 
 
 
