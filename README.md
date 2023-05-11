@@ -3,19 +3,27 @@
 ### Projects Above:
 1. [Guessing Game](https://github.com/noahmm35/CS248/tree/main/Project1)
  
-   Simple guessing game to serve as intro to Java
+   Intro to Java
+   
+   Simple Guessing Game
 
 2. [Exam Statistics Program (ESP)](https://github.com/noahmm35/CS248/tree/main/Project2))
 
-   Reading in from text file to determine Max, Min, and Average of Exam Scores. Also served to learn functions in Java
+   File Reading/ Functions
+   
+   Determine Max, Min, and Average of Exam Scores and count scores by letter grade
 
 3. [Dating Game](https://github.com/noahmm35/CS248/tree/main/Project3)
 
-   Determine day of the week for January 1st, 3000. Intro to Classes
+   Intro to Classes
+   
+   Determine day of the week for January 1st, 3000
 
 4. [Hunt the Wumpus](https://github.com/noahmm35/CS248/tree/main/Project4)
 
-   Playable game where goal is to shoot down the dreaded King Boo (Luigi's Mansion Themed). Intro to Objects
+   Intro to Objects
+   
+   Playable game where goal is to shoot down the dreaded King Boo (Luigi's Mansion Themed)
 
 9. [La Food](https://github.com/noahmm35/CS248/tree/main/Project5)
 10. [Sorting Out Sorts (SoS)](https://github.com/noahmm35/CS248/tree/main/Project6)
